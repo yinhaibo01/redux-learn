@@ -1,0 +1,17 @@
+{
+  "name": "redux-test",
+  "version": "1.0.0",
+  "description": "first redux project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ben yin",
+  "license": "ISC",
+  "dependencies": {
+    "babel": "^6.5.2",
+    "react-redux": "^4.4.5",
+    "redux": "^3.5.2",
+    "redux-devtools": "^3.3.1"
+  }
+}

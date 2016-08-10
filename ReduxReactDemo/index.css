@@ -1,0 +1,26 @@
+.frame-div {
+    height: 100%;
+    float: left;
+}
+
+#payItems > div {
+    margin: 10px 0;
+}
+
+#dataTable tr {
+    height: 35px;
+}
+
+#inquireItems > div {
+    margin: 10px 0;
+}
+
+#costsListUl li:hover {
+    background-color: rgba(183, 226, 71, 0.35);
+    color: #ffffff !important;
+}
+
+#costsListUl li.selected {
+    background-color: rgba(183, 226, 71, 0.35);
+    color: #ffffff !important;
+}
