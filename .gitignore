@@ -1,6 +1,5 @@
 node_modules/
 .idea/
 *-compiled*
-ReduxReact/static/*
-ReduxReactDemo/output/*
-MyReactRedux/static/*
+
+*.map
