@@ -41,11 +41,8 @@ var App = React.createClass({
     }
 });
 
-function mapStateToProps(state) {
-    return state;
-}
 
-var AppWrapper = connect(mapStateToProps)(App);
+var AppWrapper = connect(state=>state)(App);
 
 
 ReactDOM.render(
